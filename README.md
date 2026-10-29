@@ -21,6 +21,8 @@ docker compose up --build
 
 推送到 `main` 分支后，GitHub Actions 自动将 `_site/` 部署到 GitHub Pages。
 
+> 需要在项目的设置里，将Pages的部署来源设置为 Source: GitHub Actions
+
 ## 技术栈
 
 - **Jupyter + C Kernel** — Markdown 单元格写 LaTeX 公式，Code 单元格写 C 代码并直接运行
