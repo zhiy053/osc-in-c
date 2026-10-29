@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 book:
-  title: "Math in C"
-  author: "Dankao Chen"
+  title: "osc in C"
+  author: "Haochen Yin"
   language: zh
   page-navigation: true
   chapters:

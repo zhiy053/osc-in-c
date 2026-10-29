@@ -28,5 +28,15 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Demo</span>"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "osc in C",
+    "section": "",
+    "text": "前言\n用 C 学习数学，从数学理解到代码编写一步到位。\n\nMarkdown 单元格写公式（LaTeX 语法）\nCode 单元格写 C 代码，直接编译运行\n改个数值重新运行，立刻看到结果",
+    "crumbs": [
+      "前言"
+    ]
   }
 ]
