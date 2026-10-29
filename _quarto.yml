@@ -10,7 +10,7 @@ book:
   chapters:
     - index.qmd
     - notebooks/01-demo.ipynb
-    - notebooks/02-linear-algebra.ipynb
+    - notebooks/02-osc.ipynb
 
 format:
   html:
